@@ -1,1 +1,2 @@
 
+pos dashboard remove form user profile 
